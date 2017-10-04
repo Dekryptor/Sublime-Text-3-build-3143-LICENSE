@@ -1,8 +1,3 @@
-# Sublime-Text-3-build-3143-LICENSE
-
-
-Working license key for Sublime text 3.0
-
 —– BEGIN LICENSE —–
 TwitterInc
 200 User License
